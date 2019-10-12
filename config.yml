@@ -1,0 +1,9 @@
+data: ''
+method: get
+result: '333'
+url: http://127.0.0.1:8000/rjson
+---
+data: ''
+method: get
+result: "\u5F20df"
+url: http://127.0.0.1:8000/person
