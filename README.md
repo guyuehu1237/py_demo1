@@ -1,4 +1,1 @@
-qqqqqqqqqqqqqqqqqqqqqqqqdddddddddddddddddddd
-ffffffffffffffffff
-iiiiixit
-qqq
+联系git用法，提交接口测试的脚本。
